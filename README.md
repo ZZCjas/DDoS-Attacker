@@ -1,5 +1,5 @@
 # **DDoS-Attacker**
-DDoS-Attacker is a useful **C++** **Command-Line** DDoS attacking tool which is base on Winsocket2.You can change the target websit's name,port number and threads total.
+DDoS-Attacker is a useful **C++** **Command-Line** DDoS attacking tool which is based on Winsocket2.You can change the target websit's name,port number and threads total.
 
 **Let's have a try!!!**
 
